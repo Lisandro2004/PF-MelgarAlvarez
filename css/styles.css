@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.argentina{
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../img/laselecion.avif)
+    
+}
+
+.jaja{
+    letter-spacing: 2px;
+}
+
+.ar{
+   height: 125;
+   width: 200;
+}
+
