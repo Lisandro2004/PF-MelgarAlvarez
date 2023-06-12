@@ -1,1 +1,17 @@
-/*# sourceMappingURL=estilos.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header .argentina {
+  display: flex;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../img/laselecion.avif);
+}
+
+section main div h2 .jaja {
+  letter-spacing: 2px;
+}/*# sourceMappingURL=estilos.css.map */
