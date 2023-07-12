@@ -44,9 +44,9 @@
     margin: 20px;
  }
 
- .img-fluid.2022{
-    width: 200px;
-    height: 200px;
- }
-
+.img-fluid.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
  

@@ -1,4 +1,4 @@
-section{
+
     main{
         div{
             h2{
@@ -8,4 +8,21 @@ section{
             }
         }
     }
-}
+
+
+
+    main{
+        p{
+            .init{
+                padding: 15px;
+                width: 50%;
+                margin: 0%;
+            }
+        }
+    }
+
+    main{
+        .est{
+            margin: 20px;
+        }
+    }
